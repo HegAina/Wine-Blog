@@ -21,7 +21,7 @@ Ratings on the scale 50-100 are commonly used in reviews of wines. The descripti
 For under $20 you can buy several wine that wine rated over 90 points, eg. for $13 you can buy the wine Rulo 2007 Syrah from US which is rated 94 points. For $80 you can select between the US produced wines Charles Smith 2006 Royal City Syra and Cayuse 2008 Bionic Frog Syrah, both rated 100 points.  When it comes to wine grapes, there are several thousand types of varieties around the world. Again using the data for the highest rated wines that scores above 95 points, the graph show that the top three varieties are Pinot Noir, Cabernet Sauvignon and Bordeaux-style Red Blend.
 
 # Files
-The project consists of a Jupyter notebook where all the programmeing in python and pandas has been conducted. The Blog is posted at:
-Medium
+The project consists of a Jupyter notebook where all the programmeing in python and pandas has been conducted. The Blog is posted at
+Medium: https://medium.com/@hegaina/using-data-to-boost-your-wine-knowledge-ca2280487681
 
 
