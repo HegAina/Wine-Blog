@@ -7,7 +7,7 @@ Udacity DataScientist Project
 •	https://github.com/pandas-profiling/pandas-profiling - installed using pip. The pandas profiling reports gives a quick way to gaine some more exploratory data analysis than the pandas describe() function   
 
 # Motivation
-This project has been conducted as part of Udacity's Data Scientists Nanodegree.Three business question should be answered related to a selected dataset. This project covers some Wine Analysis using the public dataset from Kaggle: www.kaggle.com/zynicide/wine-reviews.
+This project has been conducted as part of Udacity's Data Scientists Nanodegree. Three business question should be answered related to a selected dataset. This project covers some Wine Analysis using the public dataset from Kaggle: www.kaggle.com/zynicide/wine-reviews.
 
 •	Question 1: Are there differences in the winiewers description for the best rated wines according to the least rated wines?
 
